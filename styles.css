@@ -1,2 +1,19 @@
-
+/* Your CSS Code here. */
+.holder{
+	display: grid;
+	grid-template-columns:repeat(2,100px);
+	grid-template-rows:repeat(2,100px);
+}
+.item-1{
+	background:red;
+}
+.item-2{
+	background:green;
+}
+.item-3{
+	background:greenyellow;
+}
+.item-4{
+	background:skyblue;
+}
 /* Your CSS Code here. */
